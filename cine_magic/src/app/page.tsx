@@ -136,7 +136,7 @@ export default function Home() {
         </TitleContainer>
         <SecondSectionPContainer>
           <Paragraph>
-            Découvrez une vaste sélection de films et séries, des grands classiques intemporels aux dernières nouveautés, tous disponibles au bout de vos doigts. Sur CineMagic, plongez dans des mondes où l'imagination n'a pas de limites, et trouvez le divertissement parfait adapté à votre humeur.
+            Découvrez une vaste sélection de films et séries, des grands classiques intemporels aux dernières nouveautés, tous disponibles au bout de vos doigts. Sur CineMagic, plongez dans des mondes où l&apos;imagination n&apos;a pas de limites, et trouvez le divertissement parfait adapté à votre humeur.
           </Paragraph>
         </SecondSectionPContainer>
         <Slogan>Explorez, Regardez, Plongez.</Slogan>
@@ -152,12 +152,12 @@ export default function Home() {
       <SecondSection>
         <SecondSectionPContainer>
           <Paragraph>
-            Explorez notre riche bibliothèque mise à jour en continu, organisée intelligemment pour vous aider à trouver vos favoris, que vous soyez d'humeur pour une comédie légère ou un thriller haletant.
+            Explorez notre riche bibliothèque mise à jour en continu, organisée intelligemment pour vous aider à trouver vos favoris, que vous soyez d&apos;humeur pour une comédie légère ou un thriller haletant.
           </Paragraph>
         </SecondSectionPContainer>
         <SecondSectionPContainer>
           <Paragraph>
-            Visionnez vos films et séries avec une qualité de streaming inégalée, disponibles sur tous vos appareils, où que vous soyez et quand vous le souhaitez. Ajoutez vos titres préférés à votre bibliothèque personnelle pour les retrouver facilement et reprendre la lecture à tout moment. Nos recommandations personnalisées s'adaptent à vos goûts et enrichissent constamment votre collection avec de nouvelles découvertes.
+            Visionnez vos films et séries avec une qualité de streaming inégalée, disponibles sur tous vos appareils, où que vous soyez et quand vous le souhaitez. Ajoutez vos titres préférés à votre bibliothèque personnelle pour les retrouver facilement et reprendre la lecture à tout moment. Nos recommandations personnalisées s&apos;adaptent à vos goûts et enrichissent constamment votre collection avec de nouvelles découvertes.
           </Paragraph>
         </SecondSectionPContainer>
         <SecondSectionPContainer>
@@ -167,11 +167,11 @@ export default function Home() {
         </SecondSectionPContainer>
         <SecondSectionPContainer>
           <Paragraph>
-            CineMagic n'est pas juste une plateforme de streaming. C'est votre partenaire cinéphile, qui transforme chaque soirée film en une expérience unique. Avec une interface utilisateur élégante et une navigation intuitive, accéder au meilleur du cinéma mondial n'a jamais été aussi simple.
+            CineMagic n&apos;est pas juste une plateforme de streaming. C&apos;est votre partenaire cinéphile, qui transforme chaque soirée film en une expérience unique. Avec une interface utilisateur élégante et une navigation intuitive, accéder au meilleur du cinéma mondial n&apos;a jamais été aussi simple.
           </Paragraph>
         </SecondSectionPContainer>
         <SecondSectionLinkContainer>
-          <Button>Rejoignez la communauté CineMagic aujourd'hui</Button>
+          <Button>Rejoignez la communauté CineMagic aujourd&apos;hui</Button>
           <Span>et transformez chaque visionnage en aventure.</Span>
         </SecondSectionLinkContainer>
       </SecondSection>
